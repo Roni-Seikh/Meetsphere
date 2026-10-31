@@ -11,7 +11,7 @@ Real peer-to-peer **WebRTC** video and audio, live chat, screen sharing, a waiti
 <br />
 
 [![Backend status](https://img.shields.io/badge/backend-live-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)](https://meetsphere-zc01jle8.back4.app/health)
-[![Frontend](https://img.shields.io/badge/frontend-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#-live-demo)
+[![Live demo](https://img.shields.io/badge/live_demo-meetsphere.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://meetsphere.vercel.app)
 [![License](https://img.shields.io/badge/license-MIT-6366f1?style=for-the-badge)](#-license)
 
 ![React](https://img.shields.io/badge/React_18-20232a?style=flat-square&logo=react&logoColor=61DAFB)
@@ -60,7 +60,8 @@ Real peer-to-peer **WebRTC** video and audio, live chat, screen sharing, a waiti
 
 | | Link |
 |---|---|
-| **Web app (Vercel)** | Open the deployed site from the repository's **Website** link in the About panel |
+| **Web app (Vercel)** | https://meetsphere.vercel.app |
+| **Dashboard** | https://meetsphere.vercel.app/dashboard (sign in first) |
 | **API / signalling server** | https://meetsphere-zc01jle8.back4.app |
 | **Health check** | https://meetsphere-zc01jle8.back4.app/health |
 | **Source code** | https://github.com/Roni-Seikh/Meetsphere |
@@ -424,6 +425,7 @@ Released under the **MIT License**. MeetSphere is an original educational and po
 
 [![GitHub](https://img.shields.io/badge/GitHub-Roni--Seikh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roni-Seikh)
 [![Repository](https://img.shields.io/badge/Repository-Meetsphere-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roni-Seikh/Meetsphere)
+[![Live demo](https://img.shields.io/badge/Live_demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://meetsphere.vercel.app)
 [![Backend](https://img.shields.io/badge/API-Live-22c55e?style=for-the-badge)](https://meetsphere-zc01jle8.back4.app/health)
 
 </div>
